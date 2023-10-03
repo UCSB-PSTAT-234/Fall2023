@@ -2,3 +2,5 @@ Winter2023/
 *_files/
 *.html
 demo/
+nohup.out
+.ipynb_checkpoints/

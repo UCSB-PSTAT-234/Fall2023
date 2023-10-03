@@ -1,0 +1,94 @@
+---
+title: "PSTAT 234: Statistical Data Science"
+subtitle: "Course Syllabus (Fall 2023)"
+format:
+  clean-revealjs:
+    prevew-links: auto
+  pdf:
+    documentclass: scrartcl
+    papersize: letter
+    geometry:
+      - margin=1in
+author:
+  - name: Sang-Yun Oh
+execute:
+  echo: false
+editor:
+  render-on-save: true
+---
+
+## 
+
+- Instructor: Sang-Yun Oh
+- Lectures: TR 2:00 - 3:15 pm @ GIRV 1119
+- Office Hours: Fridays at 2:30 - 3:30 pm via Zoom
+- Sections:
+
+| Day/Time | Location | TA |
+|----------|----------|----|
+| M 1 - 1:50pm | PHELP1440 | [Joshua Bang](mailto:joshua_bang@ucsb.edu)      |
+
+## Class Resources
+
+::: {.ncremental}
+- [Canvas page](https://ucsb.instructure.com/courses/15038)
+  - Course material/assignments
+  - Class calendar (assignments, office hours, etc.)
+  - [Syncing Canvas calendar to Google](https://community.canvaslms.com/t5/Student-Guide/How-do-I-subscribe-to-the-Calendar-feed-using-Google-Calendar-as/ta-p/535)
+- Nectir for questions and private communication (no emails)
+  - Public channel for questions
+  - Private DM for individual matters: e.g. grades
+- Gradescope for assignment submission
+- Access via Canvas menu
+:::
+
+## Class Resources
+
+:::: {.columns style='display: flex !important; height: 70%;'}
+
+::: {.column style='display: flex; justify-content: center; align-items: center;'}
+- JupyterHub: In Progress
+- DataCamp: [Join link](https://www.datacamp.com/groups/shared_links/6dc17af608bfda4663595a34dc48069d10b88f8a42a1610beb357e90abaea43f)
+- Textbook:  
+  _Python for Data Science_ by Wes McKinney, is available as an online book through the library ([link](https://search.library.ucsb.edu/permalink/01UCSB_INST/1876c7q/cdi_safari_books_v2_9781098104023))
+:::
+
+::: {.column}
+![](python-for-data-analysis.jpg){width=90%}
+:::
+::::
+
+# Coursework and Grading
+
+The goal of the course is to learn data science concepts and apply them for analyzing real-world datasets. You are expected to write your own code throughout this course. 
+
+If you are comfortable with Python at a level similar to [_Introduction to Python_ DataCamp course](#datacamp-courses), you would be able to learn to use libraries at the level of _Python for Data Science_ book. If the DataCamp course content is new to you, you are advised to take additional DataCamp courses to learn Python basics early on in the quarter. 
+
+
+## Coursework & Grading
+
+- **Attendance**: Bringing a laptop to class is recommended but not required. Check out [campus laptop resources](https://food.ucsb.edu/resources/technology-resources) to obtain one if you don't own a laptop.
+
+- **Midterm (20%)**: The exam will be open-computer and open-internet pen/paper exam. More information will be provided prior to the exam. 
+
+- **DataCamp Assignments (20%)** [[Join link]](https://www.datacamp.com/groups/shared_links/6dc17af608bfda4663595a34dc48069d10b88f8a42a1610beb357e90abaea43f): DataCamp exercises and assignments are for learning at your own pace. Datacamp deadlines CANNOT be extended, but you may work on them in advance. use your `@ucsb.edu` or `@umail.ucsb.edu` address
+
+## Coursework
+
+- **Assignments (30%)**: Assignments are designed for you to practice the material, which is the only way one can truly excel in it. Problem sets will contain data analysis exercises as well as conceptual questions. (10% penalty per day. Not accepted after 5 late days)
+
+- **Final Project (30%)**: You will hav a chance to pitch your project idea to class and recruit your team!
+
+## Access and Accommodations
+
+::: {.r-fit-text}
+Please submit requests for accommodations often and early. It is never too late to apply for DSP accommodations – our bodies and circumstances are continuously changing. If you have any kind of disability, whether apparent or non-apparent, learning, emotional, physical, or cognitive you may be eligible to use formal accessibility services on campus. To arrange class-related accommodations, [please contact DSP](https://dsp.sa.ucsb.edu/accommodations/how-apply). DSP will initiate communication about accommodations with faculty. By making a plan through DSP, appropriate accommodations can be implemented without disclosing your specific condition or diagnosis to course instructors.
+:::
+
+## Course Material Restrictions
+
+::: {.r-fit-text}
+All course materials (class lectures and discussions, handouts, examinations, web materials) and the intellectual content of the course itself are protected by United States Federal Copyright Law, the California Civil Code. The UC Policy 102.23 expressly prohibits students (and all other persons) from recording lectures or discussions and from distributing or selling lectures notes and all other course materials without the prior written permission of the instructor ([See this document](https://policy.ucop.edu/doc/2710530/PACAOS-100)).
+
+Students are permitted to make notes solely for their own private educational use. Exceptions to accommodate students with disabilities may be granted with appropriate documentation. To be clear, in this class students are forbidden from completing study guides and selling them to, or sharing them with, any person or organization.
+:::
